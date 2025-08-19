@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vikram-2608
 - 👀 I’m interested in Coding and Sports 
 - 🌱 I’m currently learning cpp
-- 💞️ I’m looking to collaborate on project on cpp.
+- 💞️ I’m looking to collaborate on project .
 - 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
